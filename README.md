@@ -53,9 +53,9 @@ Probing machine...
   VRAM:       0.00 GB
 ```
 
-`88 tests` · MIT
+`148 tests` · MIT
 
-### [warehouse-mcp](https://github.com/AnnasMazhar/warehouse-mcp) — least-privilege SQL for agents
+### warehouse-mcp — least-privilege SQL for agents *(not yet public)*
 An MCP server that gives an AI agent read access to a warehouse through a SQL-AST-enforced
 column policy, row filters, query budgets, redaction and an append-only audit trail.
 *In progress.*
